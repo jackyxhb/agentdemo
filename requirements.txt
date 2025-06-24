@@ -1,0 +1,67 @@
+annotated-types==0.7.0
+anthropic==0.55.0
+anyio @ file:///croot/anyio_1745334642479/work
+Brotli @ file:///croot/brotli-split_1736182456865/work
+cachetools==5.5.2
+certifi==2025.6.15
+cffi @ file:///croot/cffi_1736182485317/work
+chardet==5.2.0
+charset-normalizer==3.4.2
+click @ file:///croot/click_1744271578095/work
+distro @ file:///work/perseverance-python-buildout/croot/distro_1728396110052/work
+filetype==1.2.0
+google-ai-generativelanguage==0.6.18
+google-api-core==2.25.1
+google-auth==2.40.3
+googleapis-common-protos==1.70.0
+greenlet==3.2.3
+grpcio==1.73.0
+grpcio-status==1.73.0
+h11 @ file:///croot/h11_1748442006460/work
+httpcore @ file:///croot/httpcore_1748526048470/work
+httpx @ file:///croot/httpx_1746747840559/work
+idna @ file:///work/perseverance-python-buildout/croot/idna_1728385935861/work
+jiter @ file:///io/perseverance-python-buildout/croot/jiter_1731706885760/work
+jsonpatch @ file:///work/perseverance-python-buildout/croot/jsonpatch_1728399595941/work
+jsonpointer==2.1
+langchain==0.3.26
+langchain-anthropic==0.3.15
+langchain-core==0.3.66
+langchain-google-genai==2.1.5
+langchain-openai==0.3.25
+langchain-text-splitters==0.3.8
+langgraph==0.4.8
+langgraph-checkpoint==2.1.0
+langgraph-prebuilt==0.2.2
+langgraph-sdk==0.1.70
+langsmith==0.4.1
+openai==1.91.0
+orjson==3.10.18
+ormsgpack==1.10.0
+packaging @ file:///croot/packaging_1734472117206/work
+proto-plus==1.26.1
+protobuf==6.31.1
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///croot/pydantic_1734736067156/work
+pydantic_core @ file:///croot/pydantic-core_1734726052986/work
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1728386193338/work
+python-dotenv @ file:///croot/python-dotenv_1745610241282/work
+PyYAML @ file:///croot/pyyaml_1731006091482/work
+regex @ file:///croot/regex_1736540786412/work
+requests @ file:///croot/requests_1750426329888/work
+requests-toolbelt @ file:///work/perseverance-python-buildout/croot/requests-toolbelt_1728411657696/work
+rsa==4.9.1
+setuptools==78.1.1
+sniffio==1.3.1
+SQLAlchemy==2.0.41
+tenacity @ file:///io/perseverance-python-buildout/croot/tenacity_1731704959105/work
+tiktoken @ file:///croot/tiktoken_1748479152668/work
+tqdm @ file:///croot/tqdm_1738943501192/work
+typing-inspection==0.4.1
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+urllib3==2.5.0
+wheel==0.45.1
+xxhash==3.5.0
+zstandard @ file:///croot/zstandard_1731356346222/work
